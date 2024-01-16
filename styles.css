@@ -1,0 +1,13 @@
+.pozadina{
+    display: flex; 
+    flex-direction: column-reverse; 
+    background-color: brown;
+    gap: 20px;
+    padding:20px;
+}
+.kvadrat{
+    height:50px;
+    width:50px;
+    background-color: rgb(155, 155, 203);
+
+}
